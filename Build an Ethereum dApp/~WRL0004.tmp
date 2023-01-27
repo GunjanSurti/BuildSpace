@@ -34,16 +34,12 @@
 {\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
 {\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
 {\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
-\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;\chyperlink\ctint255\cshade255\red5\green99\blue193;\red96\green94\blue92;\red225\green223\blue221;}
-{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang16393\langfe16393\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 \snext0 \sqformat \spriority0 Normal;}
-{\s2\ql \li0\ri0\sb240\sa60\sl259\slmult1\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\ai\af31503\afs28\alang1025 \ltrch\fcs0 
-\b\i\fs28\lang16393\langfe16393\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp16393\langfenp16393 \sbasedon0 \snext0 \slink15 \ssemihidden \sunhideused \sqformat \spriority9 \styrsid5202160 heading 2;}{\*\cs10 \additive \sunhideused \spriority1 
-Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
-\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang16393\langfe16393\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 
-\snext11 \ssemihidden \sunhideused Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\ai\af31503\afs28 \ltrch\fcs0 \b\i\fs28\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink2 \slocked \ssemihidden \spriority9 \styrsid5202160 Heading 2 Char;}{\*
-\cs16 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf19 \sbasedon10 \sunhideused \styrsid11930557 Hyperlink;}{\*\cs17 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \cf20\chshdng0\chcfpat0\chcbpat21 \sbasedon10 \ssemihidden \sunhideused \styrsid11930557 
-Unresolved Mention;}}{\*\listtable{\list\listtemplateid1122275472\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid-896495212\'01\u-3856 ?;}{\levelnumbers;}
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap 
+\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang16393\langfe16393\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang16393\langfe16393\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp16393\langfenp16393 \snext11 \ssemihidden \sunhideused 
+Normal Table;}}{\*\listtable{\list\listtemplateid1122275472\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid-896495212\'01\u-3856 ?;}{\levelnumbers;}
 \loch\af10\hich\af10\dbch\af31505\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 
 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }
 {\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23
@@ -52,16 +48,15 @@ Unresolved Mention;}}{\*\listtable{\list\listtemplateid1122275472\listhybrid{\li
 \levelspace0\levelindent0{\leveltext\leveltemplateid1074331649\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
 {\leveltext\leveltemplateid1074331651\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid1074331653
 \'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid492843852}}{\*\listoverridetable{\listoverride\listid492843852\listoverridecount0\ls1}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}
-{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0
-\li0\ri0\sb0\sa0}{\pgp\ipgp10\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp11\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp14\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp21\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0
-\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0\brdrt\brdrs\brdrw5 \brdrl\brdrs\brdrw60 \brdrb\brdrs\brdrw5 \brdrr\brdrs\brdrw5 }{\pgp\ipgp16\itap0\li0\ri0\sb0\sa0\brdrt\brdrs\brdrw5 \brdrl\brdrs\brdrw60 \brdrb\brdrs\brdrw5 \brdrr\brdrs\brdrw5 }{\pgp\ipgp0\itap0
-\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0\brdrt\brdrs\brdrw5 \brdrl\brdrs\brdrw5 \brdrb\brdrs\brdrw5 \brdrr\brdrs\brdrw5 }{\pgp\ipgp9\itap0\li0\ri0\sb0\sa0\brdrt\brdrs\brdrw5 \brdrl\brdrs\brdrw5 \brdrb
-\brdrs\brdrw5 \brdrr\brdrs\brdrw5 }{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid862819\rsid1716067\rsid3486633\rsid4070176\rsid5202160\rsid6171765\rsid7302367\rsid7607394\rsid8270015\rsid8412651\rsid11823029\rsid11930557\rsid13373933\rsid14487517
-\rsid14580849\rsid14748118\rsid15818664}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Admin}{\creatim\yr2023\mo1\dy22\hr23\min16}
-{\revtim\yr2023\mo1\dy27\hr19\min26}{\version13}{\edmins863}{\nofpages6}{\nofwords1045}{\nofchars5960}{\nofcharsws6992}{\vern79}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp5\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp6\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp9\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp16\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0
+\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp10\itap0\li0\ri0\sb0\sa0\brdrt\brdrs\brdrw5 \brdrl\brdrs\brdrw60 \brdrb\brdrs\brdrw5 \brdrr\brdrs\brdrw5 }{\pgp\ipgp11\itap0\li0\ri0\sb0\sa0\brdrt
+\brdrs\brdrw5 \brdrl\brdrs\brdrw60 \brdrb\brdrs\brdrw5 \brdrr\brdrs\brdrw5 }{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp2\itap0\li0\ri0\sb0\sa0\brdrt\brdrs\brdrw5 \brdrl\brdrs\brdrw5 \brdrb\brdrs\brdrw5 \brdrr
+\brdrs\brdrw5 }{\pgp\ipgp4\itap0\li0\ri0\sb0\sa0\brdrt\brdrs\brdrw5 \brdrl\brdrs\brdrw5 \brdrb\brdrs\brdrw5 \brdrr\brdrs\brdrw5 }}{\*\rsidtbl \rsid862819\rsid1716067\rsid3486633\rsid4070176\rsid7302367\rsid7607394\rsid8270015\rsid11823029\rsid13373933
+\rsid14487517\rsid14580849\rsid14748118\rsid15818664}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Admin}{\creatim\yr2023\mo1\dy22\hr23\min16}
+{\revtim\yr2023\mo1\dy25\hr12\min34}{\version11}{\edmins559}{\nofpages5}{\nofwords715}{\nofchars4077}{\nofcharsws4783}{\vern79}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
 \paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
-\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\rsidroot15818664 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale90\rsidroot15818664 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
 \pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
 \pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
 {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15818664 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
@@ -105,8 +100,7 @@ const secondWaveTxn = await waveContract.connect(randomPerson).wave()
 \loch\af31506\dbch\af31505\hich\f31506 \'94}{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid11823029 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid3486633 
 \par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f10\insrsid3486633\charrsid3486633 \loch\af10\dbch\af31505\hich\f10 \'f0\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid3486633 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\fs24\insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506 Connect o\hich\af31506\dbch\af31505\loch\f31506 
-ur wallet to our web app
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid3486633 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\fs24\insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506 Connect our wallet to our web app
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3486633 {\rtlch\fcs1 \ab\af42 \ltrch\fcs0 \b\f42\fs24\insrsid3486633\charrsid3486633 \loch\af42\dbch\af31505\hich\f42 \u-10180
 \'3f\u-8443\'3f}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\fs24\insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506  Using window.ethereum()
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506 
@@ -116,129 +110,107 @@ s to call smart contracts on our behalf. Remember, it's just like authenticating
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506 If we have }{\rtlch\fcs1 \af0 
 \ltrch\fcs0 \b\insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506 Metamask}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506 
  browser extension wallet installed, it will automatically inject a special }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506 object}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3486633\charrsid3486633 
-\hich\af31506\dbch\af31505\loch\f31506  named }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506 ethereum}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid3486633\charrsid3486633 \~
-\hich\af31506\dbch\af31505\loch\f31506 into our window. Let's check if we have that first.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1716067 
+\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 named }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\insrsid3486633\charrsid3486633 \hich\af31506\dbch\af31505\loch\f31506 ethereum}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid3486633\charrsid3486633 \~\hich\af31506\dbch\af31505\loch\f31506 into our window. Let's check if we have that first.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1716067 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13373933 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13373933 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13373933\charrsid13373933 \hich\af31506\dbch\af31505\loch\f31506 import React, 
-\{ useEffect, useState \} from "react";
-\par \hich\af31506\dbch\af31505\loch\f31506 import "./App.css";
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13373933 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13373933\charrsid13373933 \hich\af31506\dbch\af31505\loch\f31506 import
+\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 React\hich\af31506\dbch\af31505\loch\f31506 , \{ useEffect, useState \} \hich\af31506\dbch\af31505\loch\f31506 from\hich\af31506\dbch\af31505\loch\f31506  
+\hich\af31506\dbch\af31505\loch\f31506 "\hich\af31506\dbch\af31505\loch\f31506 react"\hich\af31506\dbch\af31505\loch\f31506 ;
+\par \hich\af31506\dbch\af31505\loch\f31506 import\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 "./App.css"\hich\af31506\dbch\af31505\loch\f31506 ;
 \par 
-\par \hich\af31506\dbch\af31505\loch\f31506 const getEthereumObject = () => window.ethereum;
+\par \hich\af31506\dbch\af31505\loch\f31506 const\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 getEthereumObject\hich\af31506\dbch\af31505\loch\f31506  = () => \hich\af31506\dbch\af31505\loch\f31506 window.
+\hich\af31506\dbch\af31505\loch\f31506 ethereum\hich\af31506\dbch\af31505\loch\f31506 ;
 \par 
 \par }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\insrsid13373933\charrsid13373933 \hich\af31506\dbch\af31505\loch\f31506 /*
 \par \hich\af31506\dbch\af31505\loch\f31506  * This function returns the first linked account found.
-\par \hich\af31506\dbch\af31505\loch\f31506  * If there is no ac\hich\af31506\dbch\af31505\loch\f31506 count linked, it will return null.
+\par \hich\af31506\dbch\af31505\loch\f31506  * If there is no account linked, it will return null.
 \par \hich\af31506\dbch\af31505\loch\f31506  */}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13373933\charrsid13373933 
-\par \hich\af31506\dbch\af31505\loch\f31506 const findMetaMaskAccount = async () => \{
-\par \hich\af31506\dbch\af31505\loch\f31506   try \{
-\par \hich\af31506\dbch\af31505\loch\f31506     const ethereum = getEthereumObject();
+\par \hich\af31506\dbch\af31505\loch\f31506 const\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 findMetaMaskAccount\hich\af31506\dbch\af31505\loch\f31506  = \hich\af31506\dbch\af31505\loch\f31506 async
+\hich\af31506\dbch\af31505\loch\f31506  () => \{
+\par \hich\af31506\dbch\af31505\loch\f31506   \hich\af31506\dbch\af31505\loch\f31506 try\hich\af31506\dbch\af31505\loch\f31506  \{
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 cons\hich\af31506\dbch\af31505\loch\f31506 t\hich\af31506\dbch\af31505\loch\f31506  ethereum = \hich\af31506\dbch\af31505\loch\f31506 getEthereumObject
+\hich\af31506\dbch\af31505\loch\f31506 ();
 \par 
 \par \hich\af31506\dbch\af31505\loch\f31506     }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\insrsid13373933\charrsid13373933 \hich\af31506\dbch\af31505\loch\f31506 /*
 \par \hich\af31506\dbch\af31505\loch\f31506     * First make sure we have access to the Ethereum object.
 \par \hich\af31506\dbch\af31505\loch\f31506     */}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13373933\charrsid13373933 
-\par \hich\af31506\dbch\af31505\loch\f31506     if (!ethereum) \{
-\par \hich\af31506\dbch\af31505\loch\f31506       console.error("Make su\hich\af31506\dbch\af31505\loch\f31506 re you have Metamask!");
-\par \hich\af31506\dbch\af31505\loch\f31506       return null;
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 if\hich\af31506\dbch\af31505\loch\f31506  (!ethereum) \{
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 console.\hich\af31506\dbch\af31505\loch\f31506 error\hich\af31506\dbch\af31505\loch\f31506 (\hich\af31506\dbch\af31505\loch\f31506 "Make sure you have Metamask!"
+\hich\af31506\dbch\af31505\loch\f31506 );
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 return\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 null\hich\af31506\dbch\af31505\loch\f31506 ;
 \par \hich\af31506\dbch\af31505\loch\f31506     \}
 \par 
-\par \hich\af31506\dbch\af31505\loch\f31506     console.log("We have the Ethereum object", ethereum);
-\par \hich\af31506\dbch\af31505\loch\f31506     const accounts = await ethereum.request(\{ method: "eth_accounts" \});
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 console.\hich\af31506\dbch\af31505\loch\f31506 log\hich\af31506\dbch\af31505\loch\f31506 (\hich\af31506\dbch\af31505\loch\f31506 "We have the Ethereum object",
+\hich\af31506\dbch\af31505\loch\f31506  ethereum);
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 const\hich\af31506\dbch\af31505\loch\f31506  accounts = \hich\af31506\dbch\af31505\loch\f31506 await\hich\af31506\dbch\af31505\loch\f31506  ethereum.
+\hich\af31506\dbch\af31505\loch\f31506 request\hich\af31506\dbch\af31505\loch\f31506 (\{ \hich\af31506\dbch\af31505\loch\f31506 method\hich\af31506\dbch\af31505\loch\f31506 : \hich\af31506\dbch\af31505\loch\f31506 "eth_accounts"
+\hich\af31506\dbch\af31505\loch\f31506  \});
 \par 
-\par \hich\af31506\dbch\af31505\loch\f31506     if (accounts.length !== 0) \{
-\par \hich\af31506\dbch\af31505\loch\f31506       const account = accounts[0];
-\par \hich\af31506\dbch\af31505\loch\f31506       console.log("Found an authorized account:", account);
-\par \hich\af31506\dbch\af31505\loch\f31506       return account;
-\par \hich\af31506\dbch\af31505\loch\f31506     \} else \{
-\par \hich\af31506\dbch\af31505\loch\f31506       console.error("No authorized account found");
-\par \hich\af31506\dbch\af31505\loch\f31506       return null;
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 if\hich\af31506\dbch\af31505\loch\f31506  (accounts.\hich\af31506\dbch\af31505\loch\f31506 length\hich\af31506\dbch\af31505\loch\f31506  !== 0
+\hich\af31506\dbch\af31505\loch\f31506 ) \{
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 const\hich\af31506\dbch\af31505\loch\f31506  account = accounts[0\hich\af31506\dbch\af31505\loch\f31506 ];
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 console.\hich\af31506\dbch\af31505\loch\f31506 log\hich\af31506\dbch\af31505\loch\f31506 (\hich\af31506\dbch\af31505\loch\f31506 "Found an authorized account:"
+\hich\af31506\dbch\af31505\loch\f31506 , account);
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 return\hich\af31506\dbch\af31505\loch\f31506  account;
+\par \hich\af31506\dbch\af31505\loch\f31506     \} \hich\af31506\dbch\af31505\loch\f31506 else\hich\af31506\dbch\af31505\loch\f31506  \{
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 console.\hich\af31506\dbch\af31505\loch\f31506 error\hich\af31506\dbch\af31505\loch\f31506 (\hich\af31506\dbch\af31505\loch\f31506 "No authorized account found"
+\hich\af31506\dbch\af31505\loch\f31506 );
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 return\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 null\hich\af31506\dbch\af31505\loch\f31506 ;
 \par \hich\af31506\dbch\af31505\loch\f31506     \}
-\par \hich\af31506\dbch\af31505\loch\f31506   \} catch (error) \{
-\par \hich\af31506\dbch\af31505\loch\f31506     console.error(error);
-\par \hich\af31506\dbch\af31505\loch\f31506     return null;
+\par \hich\af31506\dbch\af31505\loch\f31506   \} \hich\af31506\dbch\af31505\loch\f31506 catch\hich\af31506\dbch\af31505\loch\f31506  (error) \{
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 console.\hich\af31506\dbch\af31505\loch\f31506 error\hich\af31506\dbch\af31505\loch\f31506 (error);
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 return\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 null\hich\af31506\dbch\af31505\loch\f31506 ;
 \par \hich\af31506\dbch\af31505\loch\f31506   \}
 \par \}\hich\af31506\dbch\af31505\loch\f31506 ;
 \par 
-\par \hich\af31506\dbch\af31505\loch\f31506 const App = (\hich\af31506\dbch\af31505\loch\f31506 ) => \{
-\par \hich\af31506\dbch\af31505\loch\f31506   const [currentAccount, setCurrentAccount] = useState("");
+\par \hich\af31506\dbch\af31505\loch\f31506 const\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 App\hich\af31506\dbch\af31505\loch\f31506  = () => \{
+\par \hich\af31506\dbch\af31505\loch\f31506   \hich\af31506\dbch\af31505\loch\f31506 const\hich\af31506\dbch\af31505\loch\f31506  [currentAccount, setCurrentAccount] = \hich\af31506\dbch\af31505\loch\f31506 useState\hich\af31506\dbch\af31505\loch\f31506 (
+\hich\af31506\dbch\af31505\loch\f31506 ""\hich\af31506\dbch\af31505\loch\f31506 );
 \par 
 \par \hich\af31506\dbch\af31505\loch\f31506   }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\insrsid13373933\charrsid13373933 \hich\af31506\dbch\af31505\loch\f31506 /*
-\par \hich\af31506\dbch\af31505\loch\f31506    * The passed callback function will be run when the page loads.
+\par \hich\af31506\dbch\af31505\loch\f31506    \hich\af31506\dbch\af31505\loch\f31506 * The passed callback function will be run when the page loads.
 \par \hich\af31506\dbch\af31505\loch\f31506    * More technically, when the App component "mounts".
 \par \hich\af31506\dbch\af31505\loch\f31506    */}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13373933\charrsid13373933 
-\par \hich\af31506\dbch\af31505\loch\f31506   useEffect(() => \{
-\par \hich\af31506\dbch\af31505\loch\f31506     findMetaMaskAccount().then((ac\hich\af31506\dbch\af31505\loch\f31506 count) => \{
-\par \hich\af31506\dbch\af31505\loch\f31506       if (account !== null) \{
-\par \hich\af31506\dbch\af31505\loch\f31506         setCurrentAccount(account);
+\par \hich\af31506\dbch\af31505\loch\f31506   \hich\af31506\dbch\af31505\loch\f31506 useEffect\hich\af31506\dbch\af31505\loch\f31506 (\hich\af31506\dbch\af31505\loch\f31506 () =>\hich\af31506\dbch\af31505\loch\f31506  \{
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 findMetaMaskAccount\hich\af31506\dbch\af31505\loch\f31506 ().\hich\af31506\dbch\af31505\loch\f31506 then\hich\af31506\dbch\af31505\loch\f31506 (
+\hich\af31506\dbch\af31505\loch\f31506 (\hich\af31506\dbch\af31505\loch\f31506 account\hich\af31506\dbch\af31505\loch\f31506 ) =>\hich\af31506\dbch\af31505\loch\f31506  \{
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 if\hich\af31506\dbch\af31505\loch\f31506  (account !== \hich\af31506\dbch\af31505\loch\f31506 null\hich\af31506\dbch\af31505\loch\f31506 ) \{
+\par \hich\af31506\dbch\af31505\loch\f31506         \hich\af31506\dbch\af31505\loch\f31506 setCurrentAccount\hich\af31506\dbch\af31505\loch\f31506 (account)\hich\af31506\dbch\af31505\loch\f31506 ;
 \par \hich\af31506\dbch\af31505\loch\f31506       \}
 \par \hich\af31506\dbch\af31505\loch\f31506     \});
 \par \hich\af31506\dbch\af31505\loch\f31506   \}, []);
 \par 
-\par \hich\af31506\dbch\af31505\loch\f31506   return (
-\par \hich\af31506\dbch\af31505\loch\f31506     <div className="mainContainer">
-\par \hich\af31506\dbch\af31505\loch\f31506       <div className="dataContainer">
-\par \hich\af31506\dbch\af31505\loch\f31506         <div className="header">
+\par \hich\af31506\dbch\af31505\loch\f31506   \hich\af31506\dbch\af31505\loch\f31506 return\hich\af31506\dbch\af31505\loch\f31506  (
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 <\hich\af31506\dbch\af31505\loch\f31506 div\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 className\hich\af31506\dbch\af31505\loch\f31506 =
+\hich\af31506\dbch\af31505\loch\f31506 "mainContainer"\hich\af31506\dbch\af31505\loch\f31506 >
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 <\hich\af31506\dbch\af31505\loch\f31506 div\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 className\hich\af31506\dbch\af31505\loch\f31506 =
+\hich\af31506\dbch\af31505\loch\f31506 "dataContainer"\hich\af31506\dbch\af31505\loch\f31506 >
+\par \hich\af31506\dbch\af31505\loch\f31506         \hich\af31506\dbch\af31505\loch\f31506 <\hich\af31506\dbch\af31505\loch\f31506 div\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 className
+\hich\af31506\dbch\af31505\loch\f31506 =\hich\af31506\dbch\af31505\loch\f31506 "header"\hich\af31506\dbch\af31505\loch\f31506 >
 \par \hich\af31506\dbch\af31505\loch\f31506           }{\rtlch\fcs1 \af42 \ltrch\fcs0 \f42\insrsid13373933\charrsid13373933 \loch\af42\dbch\af31505\hich\f42 \u-10179\'3f\u-9141\'3f}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13373933\charrsid13373933 
 \hich\af31506\dbch\af31505\loch\f31506  Hey there!
-\par \hich\af31506\dbch\af31505\loch\f31506         \hich\af31506\dbch\af31505\loch\f31506 </div>
+\par \hich\af31506\dbch\af31505\loch\f31506         \hich\af31506\dbch\af31505\loch\f31506 </\hich\af31506\dbch\af31505\loch\f31506 div\hich\af31506\dbch\af31505\loch\f31506 >
 \par 
-\par \hich\af31506\dbch\af31505\loch\f31506         <div className="bio">
-\par \hich\af31506\dbch\af31505\loch\f31506           I am Farza and I worked on self-driving cars so that's pretty cool
+\par \hich\af31506\dbch\af31505\loch\f31506         \hich\af31506\dbch\af31505\loch\f31506 <\hich\af31506\dbch\af31505\loch\f31506 div\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 className
+\hich\af31506\dbch\af31505\loch\f31506 =\hich\af31506\dbch\af31505\loch\f31506 "bio"\hich\af31506\dbch\af31505\loch\f31506 >
+\par \hich\af31506\dbch\af31505\loch\f31506           \hich\af31506\dbch\af31505\loch\f31506 I am Farza and I worked on self-driving cars so that's pretty cool
 \par \hich\af31506\dbch\af31505\loch\f31506           right? Connect your Ethereum wallet and wave at me!
-\par \hich\af31506\dbch\af31505\loch\f31506         </div>
-\par \hich\af31506\dbch\af31505\loch\f31506         <button className="waveButton" onClick=\{null\}>
-\par \hich\af31506\dbch\af31505\loch\f31506          \hich\af31506\dbch\af31505\loch\f31506  Wave at Me
-\par \hich\af31506\dbch\af31505\loch\f31506         </button>
-\par \hich\af31506\dbch\af31505\loch\f31506       </div>
-\par \hich\af31506\dbch\af31505\loch\f31506     </div>
+\par \hich\af31506\dbch\af31505\loch\f31506         \hich\af31506\dbch\af31505\loch\f31506 </\hich\af31506\dbch\af31505\loch\f31506 div\hich\af31506\dbch\af31505\loch\f31506 >
+\par \hich\af31506\dbch\af31505\loch\f31506         \hich\af31506\dbch\af31505\loch\f31506 <\hich\af31506\dbch\af31505\loch\f31506 button\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 className
+\hich\af31506\dbch\af31505\loch\f31506 =\hich\af31506\dbch\af31505\loch\f31506 "waveButton"\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 onClick\hich\af31506\dbch\af31505\loch\f31506 =\{
+\hich\af31506\dbch\af31505\loch\f31506 null\}\hich\af31506\dbch\af31505\loch\f31506 >
+\par \hich\af31506\dbch\af31505\loch\f31506           Wave at Me
+\par \hich\af31506\dbch\af31505\loch\f31506         \hich\af31506\dbch\af31505\loch\f31506 </\hich\af31506\dbch\af31505\loch\f31506 button\hich\af31506\dbch\af31505\loch\f31506 >
+\par \hich\af31506\dbch\af31505\loch\f31506       \hich\af31506\dbch\af31505\loch\f31506 </\hich\af31506\dbch\af31505\loch\f31506 div\hich\af31506\dbch\af31505\loch\f31506 >
+\par \hich\af31506\dbch\af31505\loch\f31506     \hich\af31506\dbch\af31505\loch\f31506 </\hich\af31506\dbch\af31505\loch\f31506 div\hich\af31506\dbch\af31505\loch\f31506 >
 \par \hich\af31506\dbch\af31505\loch\f31506   );
 \par \}\hich\af31506\dbch\af31505\loch\f31506 ;
 \par 
-\par \hich\af31506\dbch\af31505\loch\f31506 export default App;
-\par \hich\af31506\dbch\af31505\loch\f31506 So, we use that special method eth_accounts\~to see if we're authorized to access any of the accounts in the user's wallet. One thing to keep in mind is that the user could h\hich\af31506\dbch\af31505\loch\f31506 
-ave multiple accounts in their wallet. In this case, we just grab the first one.
+\par \hich\af31506\dbch\af31505\loch\f31506 export\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 default\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 App\hich\af31506\dbch\af31505\loch\f31506 ;
+
+\par \hich\af31506\dbch\af31505\loch\f31506 So, we use that special method \hich\af31506\dbch\af31505\loch\f31506 eth_accounts\~\hich\af31506\dbch\af31505\loch\f31506 
+to see if we're authorized to access any of the accounts in the user's wallet. One thing to keep in mind is that the user could have multiple accounts in their wallet. In this case, we just grab the first one.
 \par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13373933 
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid5202160\charrsid5202160 \hich\af31506\dbch\af31505\loch\f31506 Storing messages from users on the blockchain}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid5202160 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5202160 {\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\insrsid5202160 \hich\af31506\dbch\af31505\loch\f31506    }{\rtlch\fcs1 \ab\af0 
-\ltrch\fcs0 \ul\insrsid5202160\charrsid5202160 \hich\af31506\dbch\af31505\loch\f31506 Storing messages in arrays using structs}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \ul\insrsid5202160 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8412651 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \ul\insrsid8412651\charrsid8412651 \hich\af31506\dbch\af31505\loch\f31506 
-Now, if you remember, we want our \hich\af31506\dbch\af31505\loch\f31506 final app to be a place where people can come wave to us and send us a message. We also want to show all the past waves/messages we've gotten.\~
-That's what we'll be doing in this lesson!
-\par \hich\af31506\dbch\af31505\loch\f31506 So at the end of the lessons we want to:
-\par \hich\af31506\dbch\af31505\loch\f31506 1. Let users submit a message\hich\af31506\dbch\af31505\loch\f31506  along with their wave.
-\par \hich\af31506\dbch\af31505\loch\f31506 2. Have that data saved somehow on the blockchain.
-\par \hich\af31506\dbch\af31505\loch\f31506 3. Show that data on our site so anyone can come to see all the people who have waved at us and their messages.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \ul\insrsid8412651 
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \ul\insrsid11930557 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11930557 {\rtlch\fcs1 \ab\af42\afs32 \ltrch\fcs0 \b\f42\fs32\insrsid11930557\charrsid11930557 \loch\af42\dbch\af31505\hich\f42 
-\u9992\'3f}{\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid11930557\charrsid11930557 \loch\af31506\dbch\af31505\hich\f31506 \u-497\'3f}{\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid11930557\charrsid11930557 
-\hich\af31506\dbch\af31505\loch\f31506  Re-deploy
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 So, now that we've updated our contract we need to do a few things:
-\par \hich\af31506\dbch\af31505\loch\f31506 1. We need to deploy it again.
-\par \hich\af31506\dbch\af31505\loch\f31506 2. We need to update the contract address on our frontend.
-\par \hich\af31506\dbch\af31505\loch\f31506 3. We need to update the abi file on our frontend.\~
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 People constantly forget to do these 3 steps when they change their contract. Don't forget lol.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
-\insrsid11930557\charrsid11930557 
-\par \hich\af31506\dbch\af31505\loch\f31506 Why do we need to do all this? Well, it's because\hich\af31506\dbch\af31505\loch\f31506  smart contracts are\~}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11930557\charrsid11930557 
-\hich\af31506\dbch\af31505\loch\f31506 immutable.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 
- They can't change. They're permanent. That means changing a contract requires a full redeploy. This will also }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 reset}{\rtlch\fcs1 \ab\af0 
-\ltrch\fcs0 \insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506  all the variables since it'd be treated as a }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid6171765\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 brand-new}{
-\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506  contract. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 
-That means we'd lose all our wave data if w\hich\af31506\dbch\af31505\loch\f31506 e wanted to update the contract's code.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 Bonus}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 
-: In #general-chill-chat, can anyone tell me some solutions here? Where else could we store our wave data where we could update our contract's code and keep our original data around? There are quite a few soluti\hich\af31506\dbch\af31505\loch\f31506 
-ons here let me know what you find!
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid6171765\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 So,}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506  what you'll need to do now is:
-\par \hich\af31506\dbch\af31505\loch\f31506 1. Deploy again using \hich\af31506\dbch\af31505\loch\f31506 npx hardhat run scripts/deploy.js --network goerli
-\par \hich\af31506\dbch\af31505\loch\f31506 2. Change \hich\af31506\dbch\af31505\loch\f31506 contractAddress\hich\af31506\dbch\af31505\loch\f31506  in \hich\af31506\dbch\af31505\loch\f31506 App.js\hich\af31506\dbch\af31505\loch\f31506 
- to be the new contract address we got from the step above in the terminal jus\hich\af31506\dbch\af31505\loch\f31506 t like we did before the first time we deployed.
-\par \hich\af31506\dbch\af31505\loch\f31506 3. Get the updated abi file from \hich\af31506\dbch\af31505\loch\f31506 artifacts\hich\af31506\dbch\af31505\loch\f31506 
- like we did before and copy-paste it into Replit just like we did before. If you forgot how to do this be sure to revisit the lesson }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 
-\hich\af31506\dbch\af31505\loch\f31506  \hich\af31506\dbch\af31505\loch\f31506 HYPERLINK "https://app.buildspa\hich\af31506\dbch\af31505\loch\f31506 
-ce.so/courses/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b/lessons/LE52134606-af90-47ed-9441-980479599350?utm_source=buildspace.so&utm_medium=buildspace_project" \\t "_blank"\hich\af31506\dbch\af31505\loch\f31506  }}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
-\cs16\cf19\insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 here}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 
-\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11930557\charrsid11930557 \hich\af31506\dbch\af31505\loch\f31506 Again -- you need to do this every time you change your contracts code.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8412651 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \insrsid11930557\charrsid11930557 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5202160 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \ul\insrsid8412651\charrsid5202160 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5202160 
 \par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
 9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
 5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
@@ -383,8 +355,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000e00b
-021c5732d901feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e500000000000000000000000050ae
+28428b30d901feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
