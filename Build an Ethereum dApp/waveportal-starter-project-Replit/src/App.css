@@ -1,0 +1,58 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 64px;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 600px;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  color:#0E5E6F;
+}
+
+.bio {
+  text-align: center;
+  color: #0E5E6F;
+  margin-top: 16px;
+}
+.wave {
+  margin-top:10px;
+  background-color:#FFEFD6;
+  border-radius: 5px;
+  color:#0E5E6F;
+
+}
+.waveButton {
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  background-color:#FFEFD6;  
+  color:#0E5E6F;
+}
+
+html {
+  background-color: #F2DEBA;
+  margin: auto;
+  margin-top:50px;
+  max-width: 500px;
+}
+.txbx{
+  margin-top: 10px;
+  width: 490.800px;
+  height: 100px;
+  border-radius: 10px;
+  border-width:2px;
+  border-color: black;
+  background-color: #fef2dc;
+}
