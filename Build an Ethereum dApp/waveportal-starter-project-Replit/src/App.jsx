@@ -4,7 +4,10 @@ import "./App.css"
 
 import abi from "./utils/WavePortal.json"
 
+// checkIfWalletIsConnected(). I'll leave it to you to figure it out. Remember, we want to call it when we know for sure we have a connected + authorized account!
+
 const getEthereumObject = () => window.ethereum
+
 
 /*
  * This function returns the first linked account found.
@@ -22,10 +25,11 @@ const findMetaMaskAccount = async () => {
     }
     console.log("We have the Ethereum Object", ethereum)
     const accounts = await ethereum.request({method : "eth_accounts"})
-
+    
     if(accounts.length !==0) {
       const account = accounts[0]
       console.log("Found an authorized account:" , account)
+      
       return account
     } else{
       console.error("No authorized account found")
@@ -37,6 +41,7 @@ const findMetaMaskAccount = async () => {
     return null
   }
 }
+
 
 const App = () => {
  const [currentAccount , setCurrentAccount] = useState("")
@@ -74,7 +79,7 @@ const App = () => {
           })
         })
         // store our data in react state
-        setAllWaves(wavesCleaned)
+        setAllWaves(wavesCleaned.reverse())
         
       } else {
         console.log("Ethereum Object dosen't exist!")
@@ -83,7 +88,7 @@ const App = () => {
       console.error(error)      
     }
   }
-   getAllWaves()
+   
 
   const connectWallet = async () => {
     try {
@@ -97,16 +102,15 @@ const App = () => {
       }) 
       console.log("Connected", accounts[0])
       setCurrentAccount(accounts[0])
+      getAllWaves()
     } catch(error){
       console.error(error)
     }
   }
-  
-  // function checkIfWalletIsConnected = async () => {
-  //   if(connectWallect && )
-  // }
+
 
   const wave = async () => {
+    const text = document.getElementById("text").value
     try {
       const { ethereum } = window
       
@@ -124,12 +128,13 @@ const App = () => {
 
         /*Execute the actual wave from your smart contract*/
         
-        const waveTxn = await wavePortalContract.wave("Surti")
+        const waveTxn = await wavePortalContract.wave(text)
         console.log("Mining...", waveTxn.hash)
 
         await waveTxn.wait()
         console.log("Mined -- ", waveTxn.hash)
         getAllWaves()
+        
         
       } else {
         console.log("Ethereum object dosen't exist!")
@@ -147,10 +152,17 @@ const App = () => {
   const account = await findMetaMaskAccount()
      if (account !== null) {
        setCurrentAccount(account)
-       
+       getAllWaves()
      }
-   
+     
   },[])
+  
+  // const checkIfWalletIsConnected = async () => {
+       
+  //     getAllWaves()
+  // }
+   
+
 
   return (
     <div className="MainContainer">
@@ -164,7 +176,8 @@ const App = () => {
         </div>
         <div>
           <form>
-            <input type="text" class="txbx"></input>  
+            <lable className="bio" > Write any thing you love to do!</lable>
+            <textarea class="txar" rows="4" cols="50" id="text"> </textarea>  
           </form>
         </div>
         
@@ -182,9 +195,26 @@ const App = () => {
 // basically we go through all waves and creates new divs for every single wave and show that data on screen
       return(
         <div key={index} style={{backgroundColor: "OldLace", marginTop: "16px", padding: "8px"}}>
-        <div>Message: {wave.message}</div>
-        <div>From: {wave.address}</div>
-        <div>Time: {wave.timestamp.toString().slice(0,25)}</div>
+           <table>
+             <tr>
+               <td>
+                <em> {index + 1}.</em>
+             </td>
+             </tr>
+              <tr>
+                <td>Message:</td> 
+                <td>{wave.message}</td>
+              </tr>
+              <tr>
+                <td>From:</td> 
+                <td>{wave.address}</td>
+              </tr>
+              <tr>
+                <td>Time:</td> 
+                <td>{wave.timestamp.toString().slice(0,25)}</td>
+              </tr>
+  
+  </table>
         </div>)
         })}
       </div>
@@ -193,3 +223,9 @@ const App = () => {
 }
 
 export default App
+
+
+
+// <div>Message: {wave.message}</div>
+//         <div>From: {wave.address}</div>
+//         <div>Time: {wave.timestamp.toString().slice(0,25)}</div>
