@@ -25,20 +25,22 @@
   margin-top: 16px;
 }
 .wave {
-  margin-top:10px;
   background-color:#FFEFD6;
   border-radius: 5px;
   color:#0E5E6F;
+  height: 20px;
+  margin-top:10px;
 
 }
 .waveButton {
+/*   border: 0; */
+  border-radius: 5px;
+  background-color:#FFEFD6;  
+  border-color:#dcd0bc;  
+  color:#0E5E6F;
   cursor: pointer;
   margin-top: 16px;
   padding: 8px;
-  border: 0;
-  border-radius: 5px;
-  background-color:#FFEFD6;  
-  color:#0E5E6F;
 }
 
 html {
@@ -47,7 +49,7 @@ html {
   margin-top:50px;
   max-width: 500px;
 }
-.txbx{
+.txar{
   margin-top: 10px;
   width: 490.800px;
   height: 100px;
