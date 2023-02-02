@@ -1,5 +1,5 @@
 const main = async () => {
-  const nftContractFactory = await hre.ethers.getContractFactory("MyEpicNft");
+  const nftContractFactory = await hre.ethers.getContractFactory("MyEpicNFT");
   const nftContract = await nftContractFactory.deploy();
   await nftContract.deployed();
 
@@ -11,9 +11,9 @@ const main = async () => {
   await txn.wait();
 
   //Mint another NFT for Fun
-  txn = await nftContract.makeAnEpicNFT();
-  //wait for it to be minted
-  await txn.wait();
+  // txn = await nftContract.makeAnEpicNFT();
+  // //wait for it to be minted
+  // await txn.wait();
 };
 
 const runMain = async () => {
