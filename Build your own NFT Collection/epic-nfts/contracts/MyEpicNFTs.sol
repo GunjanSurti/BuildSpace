@@ -24,7 +24,20 @@ contract MyEpicNFT is ERC721URIStorage {
         "'/><text x='50%' y='50%' class='base' dominant-baseline='middle' text-anchor='middle'>";
 
     // Get fancy with it! Declare a bunch of colors.
-    string[] colors = ["red", "#08C2A8", "black", "yellow", "blue", "green"];
+    string[] colors = [
+        "#D61355",
+        "#08C2A8",
+        "black",
+        "blue",
+        "green",
+        "gery",
+        "#00425A",
+        "#301E67",
+        "#00337C",
+        "#17E7A4",
+        "#E84545",
+        "#A31ACB"
+    ];
 
     string[] firstWords = [
         "Fantastic",
@@ -36,7 +49,9 @@ contract MyEpicNFT is ERC721URIStorage {
         "Horrible",
         "Lazy",
         "Dashing",
-        "Funny"
+        "Funny",
+        "Volcanic",
+        "Dangerous"
     ];
     string[] secondWords = [
         "Cupcake",
@@ -52,7 +67,7 @@ contract MyEpicNFT is ERC721URIStorage {
         "Chocolatecake",
         "Burger",
         "Tacos",
-        "FriedBrain"
+        "Friedbrain"
     ];
     string[] thirdWords = [
         "Naruto",
@@ -119,6 +134,7 @@ contract MyEpicNFT is ERC721URIStorage {
 
     function makeAnEpicNFT() public {
         uint256 newItemId = _tokenIds.current();
+        require(newItemId <= 3, "Limit reached");
 
         string memory first = pickRandomFirstWord(newItemId);
         string memory second = pickRandomSecondWord(newItemId);
